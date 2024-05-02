@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/bhritick/secondproject/static/js/main.0c913c0a.js",
-    "static/js/453.1b7f8073.chunk.js": "/bhritick/secondproject/static/js/453.1b7f8073.chunk.js",
-    "index.html": "/bhritick/secondproject/index.html",
-    "main.0c913c0a.js.map": "/bhritick/secondproject/static/js/main.0c913c0a.js.map",
-    "453.1b7f8073.chunk.js.map": "/bhritick/secondproject/static/js/453.1b7f8073.chunk.js.map"
+    "main.js": "/secondproject/static/js/main.59964a4b.js",
+    "static/js/453.1b7f8073.chunk.js": "/secondproject/static/js/453.1b7f8073.chunk.js",
+    "index.html": "/secondproject/index.html",
+    "main.59964a4b.js.map": "/secondproject/static/js/main.59964a4b.js.map",
+    "453.1b7f8073.chunk.js.map": "/secondproject/static/js/453.1b7f8073.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0c913c0a.js"
+    "static/js/main.59964a4b.js"
   ]
 }
