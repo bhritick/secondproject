@@ -11,7 +11,7 @@ const Tvs = () => {
 				<div className="container">
 					<div className="row">
 						<div className="col-12">
-							<h1 className="lead text-center fs-1 py-5 my-5">Tvs Page</h1>
+							<h1 className="lead text-center fs-1 py-5 my-5">Tvs </h1>
 						</div>
 					</div>
 				</div>
